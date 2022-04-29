@@ -1,0 +1,9 @@
+{
+	"name": "database123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "838524fb-8a89-406a-a147-b34c689d9bfc",
+		"tenantId": "c6e06343-5028-498d-b719-aa54fd1df4ad"
+	}
+}
